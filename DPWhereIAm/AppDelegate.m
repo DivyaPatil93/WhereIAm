@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  DPWhereIAm
 //
-//  Created by Namrata on 23/10/16.
+//  Created by Divya Patil on 23/10/16.
 //  Copyright © 2016 Divya Patil. All rights reserved.
 //
 
